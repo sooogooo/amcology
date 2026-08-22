@@ -1,0 +1,8 @@
+{
+  "name": "超级医美 | 医美产业经济学",
+  "description": "以亚当·斯密《国富论》经典经济学原理为纲，深度剖析医美产业的分工演进、价值构成拆解、资本效率复利与机构可持续发展生态位的产业经济学专栏。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

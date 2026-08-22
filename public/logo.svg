@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1c1917" />
+      <stop offset="100%" stop-color="#09090b" />
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#b45309" />
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" rx="44" fill="url(#bgGrad)" />
+  <circle cx="100" cy="100" r="72" fill="none" stroke="#3f3f46" stroke-width="2" stroke-dasharray="4 4" />
+  <circle cx="100" cy="100" r="62" fill="none" stroke="url(#goldGrad)" stroke-width="2.5" opacity="0.9" />
+  <!-- Greek / Classical Column / Scales Symbol -->
+  <path d="M64 142 L136 142" stroke="#e4e4e7" stroke-width="4" stroke-linecap="round" />
+  <path d="M74 134 L126 134" stroke="#71717a" stroke-width="2" stroke-linecap="round" />
+  <path d="M100 56 L100 134" stroke="#f59e0b" stroke-width="4" stroke-linecap="round" />
+  <path d="M72 74 L128 74" stroke="#e4e4e7" stroke-width="3" stroke-linecap="round" />
+  <!-- Balance scale pans -->
+  <path d="M72 74 L60 98 L84 98 Z" fill="url(#goldGrad)" opacity="0.85" />
+  <path d="M128 74 L116 98 L140 98 Z" fill="url(#goldGrad)" opacity="0.85" />
+  <!-- Apex Diamond -->
+  <polygon points="100,46 106,56 100,66 94,56" fill="#f59e0b" />
+</svg>
